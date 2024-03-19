@@ -1,0 +1,133 @@
+body {
+  margin: 0;
+  background-color: #f5d3ab;
+}
+
+.container {
+  margin: 0;
+  top: 0;
+  left: 0;
+  width: auto;
+  height: auto;
+  background-color: #f5d3ab;
+  color: white;
+}
+h6 {
+  font-size: 15px;
+  color: #171b1b;
+  margin-left: 135px;
+  width: 127px;
+  height: 32px;
+  margin-top: 50px;
+}
+h1 {
+  font-family: Ultra;
+  width: 520px;
+  height: 128px;
+  font-size: 56px;
+  font-weight: 700;
+  margin-left: 135px;
+  color: black;
+}
+.row-1 {
+  margin-left: 240px;
+  margin-top: 60px;
+}
+.row-2 {
+  margin-left: 240px;
+  margin-top: 30px;
+}
+
+.homemade-bread {
+  vertical-align: top;
+  display: inline-block;
+  background-color: #9b9b9b;
+  width: 615px;
+  height: 350px;
+  margin-right: 25px;
+  padding-left: 20px;
+}
+.left {
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.right {
+  display: inline-block;
+  margin-left: 230px;
+  font-size: 50px;
+  font-family: Ultra;
+}
+.text-top {
+  font-family: Oswald;
+  font-size: 15px;
+  margin-top: 115px;
+  margin-bottom: 0;
+}
+.text-middle {
+  position: relative;
+  display: inline-block;
+  font-family: Ultra;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+.text-bottom {
+  color: #d9d5d5;
+}
+
+.boxes {
+  vertical-align: top;
+  display: inline-block;
+  background-color: white;
+  width: 300px;
+  height: 350px;
+  margin-right: 25px;
+  border: solid;
+  border-color: black;
+}
+.pictures {
+  width: 100%;
+  height: 230px;
+  border-bottom: solid;
+  border-color: black;
+}
+.box-description {
+  color: black;
+  display: inline-block;
+  padding-left: 25px;
+  padding-top: 10px;
+}
+.shop {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+.food {
+  font-family: Oswald;
+  font-size: 20px;
+  margin-top: 10px;
+}
+.dollar {
+  vertical-align: bottom;
+  font-family: Ultra;
+  display: inline-block;
+  color: black;
+  font-size: 50px;
+  margin-left: 130px;
+}
+button {
+  width: 200px;
+  height: 50px;
+  margin-top: 50px;
+  margin-bottom: 200px;
+  margin-left: 615px;
+  background-color: #f5d3ab;
+  font-weight: bold;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+button:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
